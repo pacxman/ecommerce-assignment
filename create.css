@@ -1,0 +1,25 @@
+body{
+    height: 100%;
+    width: 100%;
+    background-color: cornsilk;
+}
+
+#main {
+    width: 100%;
+    background-color: #eee !important;
+    padding: 20px;
+    overflow-y: hidden !important;
+}
+#form{
+    width: 50%;
+}
+
+progress{
+    display: none;
+}
+
+#searchquery{
+    margin-top: 16px;
+    width: 30%;
+}
+
